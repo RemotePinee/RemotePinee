@@ -1,12 +1,28 @@
-# 💫 About Me:
-🚀 目前正在做: Mixstart 3.0 数字化工具开发<br>🤝 寻求建议或帮助: 如何将开源项目推向 10k Stars <br>🌱 正在钻研的技术: Next.js 深度渲染与极致交互动画<br>💬 欢迎交流的话题: 前端黑科技、服务器维护或开源经验<br>⚡ 有趣的事实: 夜晚写代码时，服务器的呼吸声最动听
+# 💫 关于我 (About Me):
+🚀 **目前正在做**: `Mixstart 3.0 数字化工具开发`
+🤝 **寻求建议或帮助**: `如何将开源项目推向 10k Stars` 
+🌱 **正在钻研的技术**: `Next.js 深度渲染与极致交互动画`
+💬 **欢迎交流的话题**: `前端黑科技、运维或开源经验`
+⚡ **有趣的事实**: `夜晚写代码时，服务器的呼吸声最动听`
 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RemotePinee&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RemotePinee&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemotePinee&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💻 技术栈 (Tech Stack):
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 📊 活跃战报 (GitHub Stats):
+<!-- 这是一个带有镜像墙外加速的直连链接，专门修复“无法显示”的问题 -->
+<p align="center">
+  <img src="https://github-readme-stats.all-sh.workers.dev/api?username=RemotePinee&count_private=true&show_icons=true&theme=radical&locale=cn" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.all-sh.workers.dev/api/top-langs/?username=RemotePinee&layout=compact&theme=radical&locale=cn" />
+</p>
+
+<!-- 连续提交天数统计 (Streak Stats): 设置主题为 radical 保持色调统一 -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.all-sh.workers.dev/?user=RemotePinee&theme=radical" />
+</p>
