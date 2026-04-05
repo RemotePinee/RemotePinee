@@ -1,0 +1,35 @@
+name: GitHub Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # 每天更新
+  workflow_dispatch: # 允许手动拉取
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }} # 注意：这里需要去个人设置里再生成一个专用 Token
+          # 核心配置
+          user: RemotePinee
+          template: classic
+          base: header, activity, community, metadata, repositories
+          config_timezone: Asia/Shanghai
+
+          # 3D 贡献图 (非常顶！)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 各种语言占比
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # 个人成就勋章
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_display: compact
