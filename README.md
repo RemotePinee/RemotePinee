@@ -53,7 +53,8 @@
 <br />
 
 <!-- 访客统计 (Badge 为深色极简风格) -->
-<img src="https://img.shields.io/badge/%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0-%E6%9F%A5%E9%98%85%E4%B8%AD...-black?style=flat-square&logo=github" />
+<img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/RemotePinee/RemotePinee.json&color=000000&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0&style=flat-square&logo=github" />
+
 
 <br />
 <br />
