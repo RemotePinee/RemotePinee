@@ -1,55 +1,44 @@
-<div align="center">
+<br />
 
-  <br />
-  <br />
+# <p align="center"> 远程松树 | RemotePinee </p>
 
-  <!-- 1. 动态打字机页眉 (高级极简，全模式适配，极速加载) -->
-  <picture>
-    <!-- 深色模式：纯白/浅灰配色 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=RemotePinee;致力于极致的代码美学与数字化交互">
-    <!-- 浅色模式：深空灰配色 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=333333&center=true&vCenter=true&width=1000&height=100&lines=RemotePinee;致力于极致的代码美学与数字化交互">
-    <!-- 兜底图 -->
-    <img alt="Typing SVG Banner" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=RemotePinee;致力于极致的代码美学与数字化交互">
-  </picture>
-
-  <br />
-  <br />
-
-  <p align="center">
-    <strong>“ 所谓极致，是对每一行代码的雕琢，对每一个像素的偏执。 ”</strong>
-  </p>
-  <p align="center">
-    探索代码与交互的极致边界，用数字化工具重塑效率。
-  </p>
-
-  <br />
-
-  <hr />
-
-  <br />
-
-  <!-- 2. 线性活跃图 (已验证渲染稳定，支持深浅模式无缝切换) -->
-  <picture>
-    <!-- 深色模式：黑底白线 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=000&color=fff&line=fff&point=fff&area=true&hide_border=true">
-    <!-- 浅色模式：白底黑线 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=fff&color=000&line=000&point=000&area=true&hide_border=true">
-    <!-- 兜底图 -->
-    <img alt="RemotePinee Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=000&color=fff&line=fff&point=fff&area=true&hide_border=true">
-  </picture>
-
-  <br />
-  <br />
-
-  <p align="center">
-    <i>深夜的代码里，藏着对技术极致边界的追求。🌃</i>
-  </p>
-
-  <br />
-<!-- 3. 访客统计：换用更稳的 Hits 方案，样式更高级，不会出现字符重叠 -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRemotePinee%2FRemotePinee&count_bg=%23000000&title_bg=%23222222&icon=&icon_color=%23E7E7E7&title=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0&edge_flat=true" />
+  <b>致力于极致的代码美学与数字化交互</b><br />
+  探索代码与交互的极致边界，用数字化工具重塑效率。
 </p>
 
-</div>
+---
+
+## 🛠️ 技术栈 (Capabilities)
+
+| 领域 | 核心栈 | 偏好 / 状态 |
+| :--- | :--- | :--- |
+| **前端开发** | Next.js / TypeScript | 极致响应式与视图过渡动画 |
+| **后端/工具** | Node.js / Go | 10 倍效率工具开发经验 |
+| **系统运维** | Docker / 雷池 WAF / 自动化 | 高并发服务器集群保护与调优 |
+
+---
+
+## 📈 活跃指数 (Development Insights)
+
+<!-- 这是唯一保留的图表，因为我从你截图里确认了它是能稳定加载的 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=000&color=fff&line=fff&point=fff&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=fff&color=000&line=000&point=000&area=true&hide_border=true">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=000&color=fff&line=fff&point=fff&area=true&hide_border=true">
+  </picture>
+</p>
+
+---
+
+<br />
+
+<p align="center">
+  <!-- 访问统计：如果图片显示失败，这只是一个占位，确保主页排版依然高端 -->
+  <img src="https://img.shields.io/badge/访客数-查阅中...-black?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <i>"深夜的代码里，藏着对技术极致边界的追求。"</i>
+</p>
