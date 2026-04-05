@@ -1,35 +1,33 @@
-name: GitHub Metrics
+name: GitHub Metrics Single Card
 on:
-  schedule: [{cron: "0 0 * * *"}] # 每天更新
-  workflow_dispatch: # 允许手动拉取
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }} # 注意：这里需要去个人设置里再生成一个专用 Token
-          # 核心配置
+          token: ${{ secrets.METRICS_TOKEN }}
+          # 核心属性：走高端极简流
           user: RemotePinee
           template: classic
-          base: header, activity, community, metadata, repositories
+          base: header, activity, community, metadata
           config_timezone: Asia/Shanghai
-
-          # 3D 贡献图 (非常顶！)
+          
+          # 1. 3D 贡献立方体 (这个是动态的高级感来源)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # 各种语言占比
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-
-          # 个人成就勋章
+          
+          # 2. 核心战绩展示 (2.9k Stars 及勋章墙)
           plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_display: compact
+          plugin_achievements_threshold: A
+          plugin_achievements_display: detailed # 详细展示，拉高身价
+          
+          # 3. 编程语言美化
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_colors: github
+          
+          # 4. 界面优化 (去掉没用的边框和垃圾信息)
+          config_display: columns
