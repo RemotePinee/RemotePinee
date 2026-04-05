@@ -47,15 +47,9 @@
   </p>
 
   <br />
-
-  <!-- 3. 访客统计 (已深度汉化，采用稳定的 URL 编码避免乱码) -->
-  <picture>
-    <!-- 深色模式：白字黑块 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=RemotePinee&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0&color=050505&style=flat-square">
-    <!-- 浅色模式：深色文字配浅灰块 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=RemotePinee&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0&color=eeeeee&style=flat-square&label_color=333333">
-    <!-- 兜底图 -->
-    <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=RemotePinee&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0&color=050505&style=flat-square">
-  </picture>
+<!-- 3. 访客统计：换用更稳的 Hits 方案，样式更高级，不会出现字符重叠 -->
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRemotePinee%2FRemotePinee&count_bg=%23000000&title_bg=%23222222&icon=&icon_color=%23E7E7E7&title=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0&edge_flat=true" />
+</p>
 
 </div>
