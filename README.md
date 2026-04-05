@@ -11,12 +11,11 @@
 
 ## 🛠️ 技术栈 (Capabilities)
 
-<!-- 表格居中核心：使用 HTML 表格并设置 align="center" -->
 <table align="center">
   <tr>
-    <th align="center">领域 🚀</th>
-    <th align="center">核心栈 ⚙️</th>
-    <th align="center">偏好 / 状态 ✨</th>
+    <th align="center">领域</th>
+    <th align="center">核心栈</th>
+    <th align="center">偏好 / 状态</th>
   </tr>
   <tr>
     <td align="center"><b>前端开发</b></td>
@@ -36,12 +35,10 @@
 </table>
 
 <br />
-
----
+<!-- 注意：技术栈与活跃图之间的分割线已按需移除 -->
 
 ## 📊 活跃指数 (Development Insights)
 
-<!-- 线条活跃图：已验证显示稳定，支持深浅模式 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=000&color=fff&line=fff&point=fff&area=true&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=fff&color=000&line=000&point=000&area=true&hide_border=true">
@@ -52,9 +49,8 @@
 
 <br />
 
-<!-- 访客统计 (Badge 为深色极简风格) -->
+<!-- 访客统计 (稳定计数版) -->
 <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/RemotePinee/RemotePinee.json&color=000000&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0&style=flat-square&logo=github" />
-
 
 <br />
 <br />
