@@ -1,60 +1,12 @@
-<br />
+# 💫 About Me:
+🚀 目前正在做: Mixstart 3.0 数字化工具开发<br>🤝 寻求建议或帮助: 如何将开源项目推向 10k Stars <br>🌱 正在钻研的技术: Next.js 深度渲染与极致交互动画<br>💬 欢迎交流的话题: 前端黑科技、服务器维护或开源经验<br>⚡ 有趣的事实: 夜晚写代码时，服务器的呼吸声最动听
 
-<div align="center">
 
-# 👋 远程松树 | RemotePinee
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RemotePinee&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RemotePinee&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemotePinee&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b>致力于极致的代码美学与数字化交互 🎨</b><br />
-探索代码与交互的极致边界，用数字化工具重塑效率 🚀
-
----
-
-## 🛠️ 技术栈 (Capabilities)
-
-<table align="center">
-  <tr>
-    <th align="center">领域</th>
-    <th align="center">核心栈</th>
-    <th align="center">偏好 / 状态</th>
-  </tr>
-  <tr>
-    <td align="center"><b>前端开发</b></td>
-    <td align="center">Next.js / TypeScript</td>
-    <td align="center">极致响应式与视图过渡动画</td>
-  </tr>
-  <tr>
-    <td align="center"><b>服务端与工具</b></td>
-    <td align="center">Node.js / Go</td>
-    <td align="center">10 倍效率工具开发经验</td>
-  </tr>
-  <tr>
-    <td align="center"><b>系统运维</b></td>
-    <td align="center">Docker / 雷池 WAF</td>
-    <td align="center">高并发集群保护与调优</td>
-  </tr>
-</table>
-
-<br />
-<!-- 注意：技术栈与活跃图之间的分割线已按需移除 -->
-
-## 📊 活跃指数 (Development Insights)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=000&color=fff&line=fff&point=fff&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=fff&color=000&line=000&point=000&area=true&hide_border=true">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RemotePinee&bg_color=000&color=fff&line=fff&point=fff&area=true&hide_border=true">
-</picture>
-
----
-
-<br />
-
-<!-- 访客统计 (稳定计数版) -->
-<img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/RemotePinee/RemotePinee.json&color=000000&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2%E6%95%B0&style=flat-square&logo=github" />
-
-<br />
-<br />
-
-<i>“ 深夜的代码里，藏着对技术极致边界的追求。”</i>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
